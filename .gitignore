@@ -17,3 +17,5 @@ config.guess
 .objs
 .deps
 .dirstamp
+*.o
+helloscott
