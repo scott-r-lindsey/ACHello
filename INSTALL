@@ -1,5 +1,5 @@
 
-FROM GIT
+Building from git:
 
     autoreconf -f -i
     ./configure
